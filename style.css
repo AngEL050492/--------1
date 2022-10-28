@@ -1,0 +1,3 @@
+div{margin-bottom: 20px;}
+label{width: 80px; display: inline-block;}
+fieldset.choice div{display: inline;}
